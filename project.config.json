@@ -1,0 +1,15 @@
+{
+	"description": "zowoyoo mini-b2b",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false,
+		"newFeature": true
+	},
+	"compileType": "miniprogram",
+	"appid": "wxc627db84bc3463e9",
+	"projectname": "test09",
+	"miniprogramRoot": "dist/",
+	"condition": {}
+}
